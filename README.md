@@ -39,7 +39,8 @@ sh dan_rlae.sh
 ```
 
 ## TODO
-- [ ] Add strong generalization protocol
+- [ ] Add the ML-20M, Netflix, and MSD datasets
+- [ ] Add weak generalization protocol
 
 
 ## Citation
